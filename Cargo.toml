@@ -1,0 +1,6 @@
+[package]
+name = "artnet-rs"
+version = "0.1.0"
+authors = ["Matthew Stone <matthew.d.stone@gmail.com>"]
+
+[dependencies]
